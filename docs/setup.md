@@ -26,7 +26,7 @@ Download all yaml artifacts referenced in all scenarios as a single .tgz file [h
     ./setup/make-local-k3d-cluster
     ```
 
-    [About k3d](https://k3d.io/v5.6.3/).
+    [About k3d](https://k3d.io/).
 
 ---
 
